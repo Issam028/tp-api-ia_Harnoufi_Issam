@@ -1,0 +1,5 @@
+flask
+apiflask
+pandas
+scikit-learn
+joblib
