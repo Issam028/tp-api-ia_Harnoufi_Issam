@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: accident-api
+    env: python
+    buildCommand: ""
+    startCommand: "python Exercice3.py"
+    envVars:
+      - key: FLASK_ENV
+        value: development
